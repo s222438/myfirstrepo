@@ -11,3 +11,7 @@
 ### Erwartungen an die Vorlesung
 * viel tolles neues lernen 
 * kaffe trinken undsowas 
+###Erwartungen an die Vorlesung
+* Koks
+* Bier
+* Spaß und Freude
