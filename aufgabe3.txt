@@ -1,5 +1,8 @@
-Betrachten der Änderung:
+# Betrachten der Änderung:
 
 Wir haben unsere Commits mittels rebase entfernt und einen neuen Commit, nämlich 26d16818d3323caa3e0c4ae08ce5eaa1dc63da7b, erstellt
 
-Aktualisierung der Readme
+# Aktualisierung der Readme
+
+Die Commits sind in der Historie sichtbar. Der Merge-Commit beschreibt eine Zusammenführung der beiden konfliktauslösenden Commits. 
+Anders als bei "git rebase" ist die Historie nicht verändert worden.
