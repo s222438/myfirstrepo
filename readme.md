@@ -8,3 +8,6 @@
 * Midlifecrisis
 * schoki mit mehr schoki
 * maggi ist toll
+### Erwartungen an die Vorlesung
+* viel tolles neues lernen 
+* kaffe trinken undsowas 
