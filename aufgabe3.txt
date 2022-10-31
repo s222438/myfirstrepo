@@ -1,0 +1,5 @@
+Betrachten der Änderung:
+
+Wir haben unsere Commits mittels rebase entfernt und einen neuen Commit, nämlich 26d16818d3323caa3e0c4ae08ce5eaa1dc63da7b, erstellt
+
+Aktualisierung der Readme
